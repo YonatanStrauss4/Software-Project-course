@@ -3,7 +3,7 @@ Welcome to the Software Project Repository for the Software Project course at Te
 C Projects: Standalone projects developed in C, showcasing various programming skills.
 C and Python Projects: Projects that combine C and Python, demonstrating integration techniques and hybrid development.
 
-This repository contains an implementation of the K-means clustering algorithm in C.
+This repository contains an implementation of the K-means clustering algorithm in C and python separately.
 K-means is a popular clustering algorithm used to partition a dataset into K distinct clusters based on feature similarity.
 
 Features
